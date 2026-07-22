@@ -1,3 +1,9 @@
 <Solution>
-  <Project Path="ExerciciosColecoes/ExerciciosColecoes.csproj" />
+  <Project Path="Ex01/Ex01.csproj" />
+  <Project Path="Ex02/Ex02.csproj" />
+  <Project Path="Ex04/Ex04.csproj" />
+  <Project Path="Ex05/Ex05.csproj" />
+  <Project Path="Ex06/Ex06.csproj" />
+  <Project Path="Ex07/Ex07.csproj" />
+  <Project Path="ExerciciosColecoes/Ex03.csproj" />
 </Solution>
