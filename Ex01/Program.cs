@@ -54,3 +54,5 @@ static void ExibirLista(string[] frutas)
         Console.Write($" {fruta} | ");
     }
 }
+
+
